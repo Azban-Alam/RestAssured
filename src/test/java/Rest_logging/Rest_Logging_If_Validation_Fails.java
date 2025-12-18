@@ -1,4 +1,4 @@
-package rest_logging;
+package Rest_logging;
 
 import static io.restassured.RestAssured.given;
 

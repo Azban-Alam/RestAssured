@@ -1,4 +1,4 @@
-package post_put_delete;
+package Post_put_delete;
 
 import static io.restassured.RestAssured.given;
 import java.io.File;

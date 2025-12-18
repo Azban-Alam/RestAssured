@@ -1,4 +1,4 @@
-package getting_started;
+package Getting_started;
 
 import org.testng.annotations.Test;
 
