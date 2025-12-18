@@ -6,7 +6,7 @@ import io.restassured.response.Response;
 
 import static io.restassured.RestAssured.*;
 
-public class Getting_Started {
+public class getting_Started_Basic {
 	@Test
 	public void simple_get_request() {
 		// Scenario : Verify The Status Code Of Response Is 200
