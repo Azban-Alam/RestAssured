@@ -1,4 +1,4 @@
-package framework_logic_design;
+package Framework_logic_design;
 
 import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;

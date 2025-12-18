@@ -1,4 +1,4 @@
-package framework_logic_design;
+package Framework_logic_design;
 
 import static io.restassured.RestAssured.given;
 import org.testng.annotations.Test;
